@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^22.9.0",
+    "buffer": "^6.0.3",
+    "prettier": "^3.3.3",
+    "tinybench": "^3.0.4",
+    "tsx": "^4.19.2"
+  }
+}
